@@ -5,6 +5,6 @@ Hello
 
 Some General Info on Project Set Ups
 
-+ Go Get Me
++ GoGetMe App Download -- 
     Download File to phone and open Development Master
     Click on GoGetMe.apk and install
