@@ -5,7 +5,7 @@ Hello
 
 ** Main Info:
 
-Select Project and download individually
++ Select Project and download individually
 
 ** Some General Info on Project Set Ups:
 
