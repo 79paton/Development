@@ -3,11 +3,11 @@ My Projects
 
 Hello
 
-Main Info:
+** Main Info:
 
 Select Project and download individually
 
-Some General Info on Project Set Ups
+** Some General Info on Project Set Ups:
 
 + GoGetMe App Download -- 
     Download File to phone and open Development Master
